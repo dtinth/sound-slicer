@@ -1,0 +1,1 @@
+Download sox-*-win32.zip from http://sourceforge.net/projects/sox/files/sox/14.3.2/ and put the binaries here.
